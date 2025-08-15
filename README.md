@@ -2,6 +2,12 @@
 
 A professional and interactive stopwatch web application with precision timing and lap tracking.
 
+## **📸 Preview**
+
+![Stopwatch Pro Screenshot](preview.png)
+
+*Beautiful glassmorphism design with intuitive controls*
+
 ## **✨ Features**
 
 * ▶️ **Start/Pause** - Begin and stop timing with precision
